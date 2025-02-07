@@ -5,8 +5,8 @@ The business problem of optimizing pizza sales by leveraging historical order da
 
 Key objectives include:
 
-. Analyzing total order volume and identifying sales trends.
-. Calculating the total revenue generated and uncovering the top-performing pizzas in terms of revenue and quantity.
-. Determining the most common pizza sizes and the distribution of orders across different times of the day.
-. Grouping orders by date to determine the average order volume, which can help forecast demand.
-. Calculating the percentage contribution of each pizza type to total revenue and exploring the cumulative revenue over time.
+- Analyzing total order volume and identifying sales trends.
+- Calculating the total revenue generated and uncovering the top-performing pizzas in terms of revenue and quantity.
+- Determining the most common pizza sizes and the distribution of orders across different times of the day.
+- Grouping orders by date to determine the average order volume, which can help forecast demand.
+- Calculating the percentage contribution of each pizza type to total revenue and exploring the cumulative revenue over time.
